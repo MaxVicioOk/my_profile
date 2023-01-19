@@ -1,6 +1,6 @@
 # Práctica demo
 
-hecho con un curso introductorio de Le Wagon
+hecho para un curso introductorio
 
 ## Página
 
