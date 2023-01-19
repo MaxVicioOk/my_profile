@@ -5,6 +5,7 @@
 }
 a{
     text-decoration: none;
+    color:rgb(95, 151, 112);
 }
 .button{
     display: inline-block;
@@ -36,7 +37,7 @@ a:hover{
     }
 }
 #certificado{
-    color: rgb(104, 92, 170);
+    color: rgb(194, 163, 60);
     font-weight: 500;
 }
 #certificado:hover{
